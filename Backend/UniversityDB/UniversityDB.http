@@ -1,0 +1,6 @@
+@UniversityDB_HostAddress = http://localhost:5032
+
+GET {{UniversityDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "name": "raja",
+        "department": "IT",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "2",
+        "name": "priya",
+        "department": "CSE",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "3",
+        "name": "anu",
+        "department": "IT",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "4",
+        "name": "ramya",
+        "department": "ECE",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "5",
+        "name": "zakiya",
+        "department": "Mechanincal",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "6",
+        "name": "praveen",
+        "department": "EEE",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id": "7",
+        "name": "vijay",
+        "department": "Mechanincal",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id":"8",
+        "name":"venki",
+        "department":"EEE",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id":"9",
+        "name":"arun",
+        "department":"IT",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    },
+    {
+        "id":"10",
+        "name":"vimal",
+        "department":"CSE",
+        "english": 95,
+        "tamil": 99,
+        "maths": 96,
+        "science": 92,
+        "social": 98
+    }
+]

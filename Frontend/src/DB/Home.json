@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Dashboard",
+        "description": "View all students details",
+        "path": "/dashboard"
+    },
+    {
+        "id": "2",
+        "title": "Edit Students",
+        "description": "Manage Students Record",
+        "path": "/editstudent"
+    },
+    {
+        "id": "3",
+        "title": "Add Student",
+        "description": "Add New Student",
+        "path": "/addstudent"
+    },
+    {
+        "id": "5",
+        "title": "Delete Student",
+        "description": "Delete Student Record",
+        "path": "/deletestudent"
+    },
+    {
+        "id": "6",
+        "title": "Add Marks",
+        "description": "Provide Marks to the student",
+        "path": "/studentMark"
+    }
+]

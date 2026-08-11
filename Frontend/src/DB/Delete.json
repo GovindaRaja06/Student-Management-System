@@ -1,0 +1,222 @@
+[
+    {
+        "regno":"R20261",
+        "name":"Raja.A",
+        "age":21,
+        "dept":"IT",
+        "gender":"Male",
+        "location":"Trichy",
+        "year":4,
+        "fathername":"Arunachalam.G",
+        "mothername":"kausalya.A"
+    },
+        {
+        "regno":"R20262",
+        "name":"Anu.S",
+        "age":21,
+        "dept":"IT",
+        "gender":"Female",
+        "location":"Chennai",
+        "year":2,
+        "fathername":"Saravanan",
+        "mothername":"Mom"
+    },
+        {
+        "regno":"R20263",
+        "name":"Pooja.JR",
+        "age":21,
+        "dept":"ECE",
+        "gender":"Female",
+        "location":"Chennai",
+        "year":3,
+        "fathername":"Jothisankardas",
+        "mothername":"Mom"
+    },
+        {
+        "regno":"R20264",
+        "name":"Arun.P",
+        "age":21,
+        "dept":"IT",
+        "gender":"Male",
+        "location":"Perambalur",
+        "year":4,
+        "fathername":"Periyasamy",
+        "mothername":"Mom"
+    },
+        {
+        "regno":"R20265",
+        "name":"Venki",
+        "age":21,
+        "dept":"CSE",
+        "gender":"Male",
+        "location":"Madurai",
+        "year":3,
+        "fathername":"Krishna",
+        "mothername":"Mom"
+    },
+        {
+        "regno":"R20266",
+        "name":"Sriram.M",
+        "age":21,
+        "dept":"AIML",
+        "gender":"Male",
+        "location":"Ambai",
+        "year":4,
+        "fathername":"Dad",
+        "mothername":"Mom"
+    },
+        {
+        "regno":"R20267",
+        "name":"Rajesh.SS",
+        "age":21,
+        "dept":"IT",
+        "gender":"Male",
+        "location":"Trichy",
+        "year":4,
+        "fathername":"Dad",
+        "mothername":"Mom"
+    },
+       {
+        "regno": "R20268",
+        "name": "Arun K",
+        "age": 22,
+        "dept": "ECE",
+        "gender": "Male",
+        "location": "Madurai",
+        "year": 4,
+        "fathername": "Kannan",
+        "mothername": "Meena Kannan"
+    },
+    {
+        "regno": "R20269",
+        "name": "Divya M",
+        "age": 19,
+        "dept": "EEE",
+        "gender": "Female",
+        "location": "Coimbatore",
+        "year": 2,
+        "fathername": "Murugan",
+        "mothername": "Revathi Murugan"
+    },
+    {
+        "regno": "R202610",
+        "name": "Vignesh P",
+        "age": 21,
+        "dept": "Mechanical",
+        "gender": "Male",
+        "location": "Salem",
+        "year": 4,
+        "fathername": "Prakash",
+        "mothername": "Uma Prakash"
+    },
+    {
+        "regno": "R202611",
+        "name": "Harini V",
+        "age": 20,
+        "dept": "Civil",
+        "gender": "Female",
+        "location": "Tirunelveli",
+        "year": 3,
+        "fathername": "Venkatesan",
+        "mothername": "Shanthi Venkatesan"
+    },
+    {
+        "regno": "R202612",
+        "name": "Karthik B",
+        "age": 21,
+        "dept": "IT",
+        "gender": "Male",
+        "location": "Erode",
+        "year": 4,
+        "fathername": "Balasubramanian",
+        "mothername": "Anitha Balasubramanian"
+    },
+    {
+        "regno": "R202613",
+        "name": "Nisha P",
+        "age": 19,
+        "dept": "CSE",
+        "gender": "Female",
+        "location": "Thanjavur",
+        "year": 2,
+        "fathername": "Parthiban",
+        "mothername": "Geetha Parthiban"
+    },
+    {
+        "regno": "R202614",
+        "name": "Sanjay R",
+        "age": 22,
+        "dept": "ECE",
+        "gender": "Male",
+        "location": "Karur",
+        "year": 4,
+        "fathername": "Ravi",
+        "mothername": "Latha Ravi"
+    },
+    {
+        "regno": "R202615",
+        "name": "Keerthana S",
+        "age": 20,
+        "dept": "IT",
+        "gender": "Female",
+        "location": "Namakkal",
+        "year": 3,
+        "fathername": "Sivakumar",
+        "mothername": "Uma Sivakumar"
+    },
+    {
+        "regno": "R202616",
+        "name": "Ajith Kumar",
+        "age": 21,
+        "dept": "Mechanical",
+        "gender": "Male",
+        "location": "Dindigul",
+        "year": 4,
+        "fathername": "Kumaravel",
+        "mothername": "Malliga Kumaravel"
+    },
+    {
+        "regno": "R202617",
+        "name": "Ananya G",
+        "age": 19,
+        "dept": "EEE",
+        "gender": "Female",
+        "location": "Thoothukudi",
+        "year": 2,
+        "fathername": "Ganesh",
+        "mothername": "Kavitha Ganesh"
+    },
+    {
+        "regno": "R202618",
+        "name": "Mohammed Irfan",
+        "age": 20,
+        "dept": "CSE",
+        "gender": "Male",
+        "location": "Vellore",
+        "year": 3,
+        "fathername": "Abdul Rahman",
+        "mothername": "Fathima Rahman"
+    },
+    {
+        "regno": "R202619",
+        "name": "Sneha R",
+        "age": 21,
+        "dept": "Civil",
+        "gender": "Female",
+        "location": "Trichy",
+        "year": 4,
+        "fathername": "Rajendran",
+        "mothername": "Vijayalakshmi Rajendran"
+    },
+    {
+        "regno": "R202620",
+        "name": "Dinesh K",
+        "age": 20,
+        "dept": "IT",
+        "gender": "Male",
+        "location": "Chennai",
+        "year": 3,
+        "fathername": "Krishnan",
+        "mothername": "Sasikala Krishnan"
+    }
+]

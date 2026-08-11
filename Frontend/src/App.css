@@ -1,0 +1,404 @@
+body {
+  background: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.home-top {
+  text-align: center;
+}
+
+.wrapper {
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 100px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper button {
+  background: transparent;
+  color: black;
+  border-radius: 5px;
+}
+
+.wrapper button:hover {
+  cursor: pointer;
+  transition: ease-in-out 0.3s;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.home-container {
+
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: flex-start; */
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.dashboard-container {
+  margin: 10px;
+}
+
+.dash-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dash-btn button {
+  background: transparent;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  width: 100px;
+  height: 20px;
+  margin: 10px;
+  border: 2px solid black;
+  transition: 0.3s ease-in;
+  border-radius: 5px;
+}
+
+.dash-btn button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+.top-layer {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.avg-marks {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.dropdown-selction select {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown-selction select:focus {
+  border-color: #4f46e5;
+  box-shadow: 0 0 5px rgba(79, 70, 226, 0.2);
+}
+
+
+.dropdown-selction select,
+.dropdown-selction option {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.top-layer {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.second-layer table {
+  border: 2px solid black;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.second-layer th,
+.second-layer td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+.second-layer tbody tr:hover {
+  background: #f5f5f5;
+}
+
+.top-heading {
+  text-align: center;
+}
+
+.heading1 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.student-detail {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.student-detail input {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.form-row {
+  display: flex;
+  /* align-items: center; */
+  align-items: baseline;
+  font-size: medium;
+  margin-bottom: 10px;
+}
+
+.form-row label {
+  width: 150px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.form-row input {
+  width: 250px;
+  font-family: 'Times New Roman', Times, serif;
+  height: 30px;
+}
+
+.form-row input:focus {
+  box-shadow: 2px 2px 5px rgba(8, 8, 8, 0.2);
+}
+
+.student-detail button {
+  cursor: pointer;
+  background: transparent;
+  border: 2px solid black;
+  width: 150px;
+  margin-right: 5px;
+  margin-left: 5px;
+  height: 30px;
+  border-radius: 7px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-weight: 800;
+}
+
+.student-detail button:hover {
+  color: white;
+  background-color: black;
+}
+
+.govtIdsec {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.year-selection {
+  margin: 10px;
+}
+
+.year-selection select {
+  font-family: 'Times New Roman', Times, serif;
+  width: 180px;
+  height: 30px;
+  font-size: 16px;
+  font-weight: 700;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.year-selection input {
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-right: 7px;
+  width: 180px;
+  height: 25px;
+}
+
+.year-selection input:focus {
+  box-shadow: 3px 3px 5px rgba(8, 8, 8, 0.2);
+}
+
+.year-selection button {
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 70px;
+  height: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+  background: transparent;
+}
+
+.year-selection button:hover {
+  color: aliceblue;
+  background-color: black;
+}
+
+.table-structure table {
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.table-structure th,
+.table-structure td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+.table-structure tbody tr:hover {
+  background-color: #f5f5f5;
+}
+
+.popup-window {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 50%;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.8);
+  opacity: 0;
+  transition: all 0.3s ease-in;
+}
+
+.popup-window.show {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+
+}
+
+.field-container {
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.field-container label {
+  width: 160px;
+}
+
+.field-container p {
+  width: 220px;
+  margin: 0;
+}
+
+.field-container button {
+  background: transparent;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  width: 90px;
+}
+
+.field-container button:hover {
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+.field-container input {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 3px;
+  margin-right: 2px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  backdrop-filter: blur(5px);
+}
+
+.delete-table table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+.delete-table th,
+.delete-table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.delete-top {
+  text-align: center;
+  margin: 10px;
+}
+
+.delete-top input {
+  width: 200px;
+  margin: 5px;
+  height: 20px;
+}
+
+.delete-top button {
+  background: transparent;
+  height: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
+
+.delete-top button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+.delete-popup {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 20%;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.8);
+  opacity: 0;
+  transition: all 0.3s ease-in;
+  text-align: center;
+}
+
+.delete-popup.show {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.mark-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mark-btn button {
+  background: transparent;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 30px;
+  width: 170px;
+  transition: 0.3s ease-in;
+}
+
+.mark-btn button:hover {
+  cursor: pointer;
+  color: white;
+  background: black;
+}
+
+.Toastify__toast {
+  color: rgb(5, 5, 5);
+  background-image: linear-gradient(135deg, #E3F2FD 0%, #BBDEFB 100%) !important;
+}
